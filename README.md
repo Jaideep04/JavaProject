@@ -36,8 +36,3 @@ If purchasing, enter the required amount. The application will guide you through
 
 - Continuation:
 After completing a transaction, decide whether to continue using the vending machine.
-
-
-### Repository
-
-[VendingMachine-Java GitHub Repository](https://github.com/mahboube89/VendingMachine-Java.git)
